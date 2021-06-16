@@ -1,12 +1,12 @@
 <?php
 /**
  * Desc: MultiProcessWorkerInterface
- * User: maozhongyu
+ * User: nonfishz
  * Date: 2021/6/7
  * Time: 上午12:46
  */
 
-namespace Xpx\MultiProcessWorker;
+namespace Nonfishz\MultiProcessWorker;
 
 interface MultiProcessWorkerInterface
 {

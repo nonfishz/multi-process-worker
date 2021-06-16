@@ -1,11 +1,11 @@
 {
-  "name": "cr-mao\/multi-process-worker",
+  "name": "nonfishz\/multi-process-worker",
   "description": "multi process do tasks easily",
   "license": "MIT",
   "authors": [
     {
-      "name": "cr-mao",
-      "email": "crmao1991@gmail.com"
+      "name": "nonfishz",
+      "email": "Nonfishz@gmail.com"
     }
   ],
   "require": {
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Xpx\\MultiProcessWorker\\": "src"
+      "Nonfishz\\MultiProcessWorker\\": "src"
     }
   }
 }
